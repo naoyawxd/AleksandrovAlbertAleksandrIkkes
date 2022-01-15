@@ -1,2 +1,1 @@
-# AleksandrovAlbertAleksandrIkkes
-project 
+# Project 5 sem
